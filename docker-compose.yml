@@ -1,6 +1,6 @@
 services:
   app:
-    image: shibilbasith11/two-tier-todo:latest
+    image: vismayavinodkk/two-tier-todo:latest
     container_name: todo-app
     restart: always
     ports:
